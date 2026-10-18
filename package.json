@@ -8,7 +8,7 @@
     "dev": "DEV_MODE=true node server.js"
   },
   "engines": {
-    "node": ">=20"
+    "node": "22.x"
   },
   "dependencies": {
     "better-sqlite3": "^11.8.1",
